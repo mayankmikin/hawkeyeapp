@@ -1,0 +1,24 @@
+# This is a generated file; do not edit or check into version control.
+camera=/home/mayank/.pub-cache/hosted/pub.dev/camera-0.10.3/
+camera_android=/home/mayank/.pub-cache/hosted/pub.dev/camera_android-0.10.4/
+camera_avfoundation=/home/mayank/.pub-cache/hosted/pub.dev/camera_avfoundation-0.9.11/
+camera_web=/home/mayank/.pub-cache/hosted/pub.dev/camera_web-0.3.1+1/
+flutter_plugin_android_lifecycle=/home/mayank/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.7/
+google_mlkit_barcode_scanning=/home/mayank/.pub-cache/hosted/pub.dev/google_mlkit_barcode_scanning-0.5.0/
+google_mlkit_commons=/home/mayank/.pub-cache/hosted/pub.dev/google_mlkit_commons-0.2.0/
+google_mlkit_digital_ink_recognition=/home/mayank/.pub-cache/hosted/pub.dev/google_mlkit_digital_ink_recognition-0.6.0/
+google_mlkit_face_detection=/home/mayank/.pub-cache/hosted/pub.dev/google_mlkit_face_detection-0.5.0/
+google_mlkit_image_labeling=/home/mayank/.pub-cache/hosted/pub.dev/google_mlkit_image_labeling-0.5.0/
+google_mlkit_object_detection=/home/mayank/.pub-cache/hosted/pub.dev/google_mlkit_object_detection-0.6.0/
+google_mlkit_pose_detection=/home/mayank/.pub-cache/hosted/pub.dev/google_mlkit_pose_detection-0.5.0/
+google_mlkit_selfie_segmentation=/home/mayank/.pub-cache/hosted/pub.dev/google_mlkit_selfie_segmentation-0.2.0/
+google_mlkit_text_recognition=/home/mayank/.pub-cache/hosted/pub.dev/google_mlkit_text_recognition-0.5.0/
+image_picker=/home/mayank/.pub-cache/hosted/pub.dev/image_picker-0.8.6+1/
+image_picker_android=/home/mayank/.pub-cache/hosted/pub.dev/image_picker_android-0.8.5+6/
+image_picker_for_web=/home/mayank/.pub-cache/hosted/pub.dev/image_picker_for_web-2.1.10/
+image_picker_ios=/home/mayank/.pub-cache/hosted/pub.dev/image_picker_ios-0.8.6+7/
+path_provider=/home/mayank/.pub-cache/hosted/pub.dev/path_provider-2.0.12/
+path_provider_android=/home/mayank/.pub-cache/hosted/pub.dev/path_provider_android-2.0.22/
+path_provider_foundation=/home/mayank/.pub-cache/hosted/pub.dev/path_provider_foundation-2.1.1/
+path_provider_linux=/home/mayank/.pub-cache/hosted/pub.dev/path_provider_linux-2.1.8/
+path_provider_windows=/home/mayank/.pub-cache/hosted/pub.dev/path_provider_windows-2.1.3/
